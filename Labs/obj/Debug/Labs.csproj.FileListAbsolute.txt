@@ -1,0 +1,15 @@
+D:\Универ\ММП\практика\Labs\bin\Debug\Labs.exe.config
+D:\Универ\ММП\практика\Labs\bin\Debug\Labs.exe
+D:\Универ\ММП\практика\Labs\bin\Debug\Labs.pdb
+D:\Универ\ММП\практика\Labs\obj\Debug\Labs.csproj.AssemblyReference.cache
+D:\Универ\ММП\практика\Labs\obj\Debug\Labs.Opening_Form.resources
+D:\Универ\ММП\практика\Labs\obj\Debug\Labs.Properties.Resources.resources
+D:\Универ\ММП\практика\Labs\obj\Debug\Labs.Simplex_start.resources
+D:\Универ\ММП\практика\Labs\obj\Debug\Labs.csproj.GenerateResource.cache
+D:\Универ\ММП\практика\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+D:\Универ\ММП\практика\Labs\obj\Debug\Labs.exe
+D:\Универ\ММП\практика\Labs\obj\Debug\Labs.pdb
+D:\Универ\ММП\практика\Labs\obj\Debug\Labs.Simplex_form.resources
+D:\Универ\ММП\практика\Labs\obj\Debug\Labs.Mmethod_start.resources
+D:\Универ\ММП\практика\Labs\obj\Debug\Labs.Double_simplex_form.resources
+D:\Универ\ММП\практика\Labs\obj\Debug\Labs.Ghomori_form.resources
